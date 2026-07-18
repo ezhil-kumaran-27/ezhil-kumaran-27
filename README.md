@@ -132,26 +132,6 @@ React • Flask • PostgreSQL • JWT • Razorpay
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhil-kumaran-27&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ezhil-kumaran-27&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 💬 Quote
 
 > "Building intelligent software that solves real-world problems through AI and Full Stack Development."
